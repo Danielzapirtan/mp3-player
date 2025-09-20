@@ -2,7 +2,7 @@
     "name": "MP3 Player PWA",
     "short_name": "MP3 Player",
     "description": "A simple MP3 player as a Progressive Web App",
-    "start_url": "/index.html",
+    "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#f0f0f0",
     "theme_color": "#6200ea",
